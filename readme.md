@@ -14,6 +14,8 @@ Este foi projeto foi desenvolvido para uma campanha de atualização cadastral d
 
 ```cd public && php -S localhost:9000```
 
+Acessar a url ```localhost:9000``` para o formulário da campanha.
+Para acessar o painel administrativo, ```localhost:9000``` com usuário:```admin@admin.com``` e senha: ```secret```.
 
 ## License
 
