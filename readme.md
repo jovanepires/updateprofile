@@ -12,10 +12,6 @@ Execute os comandos abaixo no terminal:
 
 ```composer install```
 
-```cp .env.example .env```
-
-```php artisan key:generate``` 
-
 ```php artisan migrate --seed```
 
 ```cd public && php -S localhost:9000```
