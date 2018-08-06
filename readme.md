@@ -4,6 +4,12 @@ Este foi projeto foi desenvolvido para uma campanha de atualização cadastral d
 
 ## Configuração
 
+Execute os comandos abaixo no terminal: 
+
+```git clone https://github.com/jovanepires/updateprofile.git```
+
+```cd updateprofile```
+
 ```composer install```
 
 ```cp .env.example .env```
